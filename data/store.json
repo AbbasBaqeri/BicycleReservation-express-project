@@ -1,0 +1,17 @@
+{
+  "bikes": [
+    {
+      "id": 1,
+      "available": true
+    },
+    {
+      "id": 2,
+      "available": true
+    },
+    {
+      "id": 3,
+      "available": true
+    }
+  ],
+  "rentals": [ ]
+}
